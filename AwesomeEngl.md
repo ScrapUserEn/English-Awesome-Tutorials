@@ -5,6 +5,7 @@
 
 ## Dictionaries ##
 * [Context Dictionary with Examples](https://www.vocabulary.com/dictionary/)
+* [Online Etymology Dict](https://www.etymonline.com/)
 
 ## Translators ##
 * [DeepL AI Translator](https://www.deepl.com/)
